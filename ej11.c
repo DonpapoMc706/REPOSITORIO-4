@@ -11,7 +11,7 @@ int main() {
     strcpy(bibloteca[1].titulo, "Harry Potter");
     bibloteca[1].precio = 1500;
     strcpy(bibloteca[2].titulo, "El principito");
-    bibloteca[2].precio = 500;
+    bibloteca[2].precio = 2000;
     int maximo = 0;
     int indice_caro = 0;
     for (int i = 0; i < 3; i++) {
